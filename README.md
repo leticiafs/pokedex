@@ -1,3 +1,5 @@
+![pokedex](https://user-images.githubusercontent.com/53658438/121425467-d1d29800-c948-11eb-86f7-dffac3f8ceba.png)
+
 # Pokedex
 
 > Status do Projeto: Em construção :construction:
