@@ -1,5 +1,3 @@
-![labexx](https://user-images.githubusercontent.com/53658438/121280546-e1040800-c8ac-11eb-8e72-0087d1ba858e.png)
-
 # Pokedex
 
 > Status do Projeto: Em construção :construction:
